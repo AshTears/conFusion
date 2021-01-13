@@ -1,15 +1,14 @@
-<!-- Style for main page -->
+/* Additional styles */
 
-.row-header{
-	margin: 0 auto;
-	padding: 0 auto;
+body {
+	padding-top: 50px;
+	z-index: 0;
 }
 
-.row-content{
-	margin: 0 auto;
-	padding: 50px 0;
-	border-bottom: 1px ridge;
-	min-height: 400px;
+.address {
+	font-size: 80%;
+	margin: 0;
+	color: #0f0f0f;
 }
 
 .footer {
@@ -25,8 +24,17 @@
 	color: floralwhite;
 }
 
-.address {
-	font-size: 80%;
-	margin: 0;
-	color: #0f0f0f;
+.navbar-dark{ background-color: #512da8; }
+
+.row-content{
+	margin: 0 auto;
+	padding: 50px 0;
+	border-bottom: 1px ridge;
+	min-height: 400px;
 }
+
+.row-header{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
