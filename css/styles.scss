@@ -1,3 +1,5 @@
+/* author: Ashika Shallow */
+
 $lt-gray: #ddd;
 $background-dark: #512DA8;
 $background-light: #9575CD;
@@ -74,15 +76,15 @@ body {
 	z-index: 1;
 }
 
-.modal {
-	button {color: floralwhite;}
-	.modal-header { 
-		background: $background-dark;
+.modal-header { 
+	background: $background-dark;
+	color: floralwhite;
+	
+	.close {
 		color: floralwhite;
-		
-	}	
-	.modal-body {
-		background: $background-pale;		
 	}
-}
+}	
 
+.modal-body {
+	background: $background-pale;		
+}
