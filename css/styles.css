@@ -1,4 +1,15 @@
 /* author: Ashika Shallow */
+address {
+  font-size: 80%;
+  margin: 0;
+  color: #0f0f0f; 
+}
+
+body {
+  padding: 50px 0 0 0;
+  z-index: 0; 
+}
+
 .row-header {
   margin: 0 auto;
   padding: 0 0; }
@@ -20,14 +31,7 @@
   background: #9575CD;
   color: floralwhite; }
 
-address {
-  font-size: 80%;
-  margin: 0;
-  color: #0f0f0f; }
 
-body {
-  padding: 50px 0 0 0;
-  z-index: 0; }
 
 .navbar-dark {
   background-color: #512DA8; }
@@ -61,4 +65,10 @@ body {
     color: floralwhite; }
 
 .modal-body {
-  background: #D1C4E9; }
+  background: #D1C4E9; 
+}
+
+.menu-content {
+	padding: 30px 0;
+	border-bottom: 1px solid black;
+}
