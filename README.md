@@ -6,7 +6,6 @@ At the end of this course, I was able to
 - Set up, design and style a web page using Bootstrap 4 and its components, 
 - Create a responsive web page design, and 
 - Make use of web tools to setup and manage web sites.
-See the project in action at http://ashikashallow.com/conFusion
 
 ## What I Learned
 - Bootstrap 4
